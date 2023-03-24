@@ -1,5 +1,5 @@
-# astroooooooo
-## About
+# Astroooooooo
+## :question: About
 No sense batch file.
-## Warning!
+## :warning: Warning
 This program contains fast flashing text. It may cause discomfort and trigger seizures for people with photosensitive epilepsy.
