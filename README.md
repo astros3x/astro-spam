@@ -1,4 +1,4 @@
-# Astroooooooo
+# Astro spam + pc crusher
 ## :question: About
 No sense batch file.
 ## :warning: Warning
