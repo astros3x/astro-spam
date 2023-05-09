@@ -38,7 +38,7 @@ if __name__ == "__main__":
     slowprint("Now you'll see how to crush a pc in a fun way...", .10)
     time.sleep(0.1)
     slowprint("Grrrrrrrrrrrr", .5)
-    cls
+    cls()
     threads = []
     for bats in paths:
         thread = threading.Thread(target=runner, args=[bats])
