@@ -23,7 +23,7 @@ def slowprint(s, c, newLine=True):
 
 
 #paths runner
-paths = (".\\bin\slower.bat", ".\\bin\\astros3x.bat")
+paths = (".\\bin\\slower.bat", ".\\bin\\astros3x.bat")
 
 def runner(bats):
     subprocess.call([bats])
